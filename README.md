@@ -1,5 +1,7 @@
 # ARM 7
 
+**SPANISH/ESPAÑOL**
+
 ## Índice
 * [Get Started](#get-started)
 * [Instrucciones](#instrucciones)
